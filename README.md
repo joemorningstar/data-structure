@@ -1,2 +1,5 @@
 # data-structure
-Data structure notes
+
+
+* Binary Tree
+* Huffman Tree
